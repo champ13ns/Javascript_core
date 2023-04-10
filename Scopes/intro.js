@@ -41,7 +41,7 @@ function fn(){
         console.log(a)
     }
     g();
-}
+}   
 // fn();
 // console.log(a);  // error -> a is not defined
 
