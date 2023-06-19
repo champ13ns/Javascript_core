@@ -14,4 +14,5 @@ fun.prototype.display = function (){
 
 console.log(animal);
 let person = new fun("Sachin");
-console.log(fun.prototype.display)
+console.log(fun.prototype.display === animal.display)
+console.log(fun.prototype)
